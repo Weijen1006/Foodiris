@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "78341282824",
+    "firebase_url": "https://foodiris-de101.firebaseio.com",
+    "project_id": "foodiris-de101",
+    "storage_bucket": "foodiris-de101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78341282824:android:52e3ef0ec31e6f89ea85bd",
+        "android_client_info": {
+          "package_name": "com.weijen.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78341282824-ueslo7l87l9bjcduj7jdqmnmnu1uq04t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv4EK1FEWyIhlvIyw4WF5nBKnMembW5_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78341282824-ueslo7l87l9bjcduj7jdqmnmnu1uq04t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
